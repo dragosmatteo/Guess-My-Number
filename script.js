@@ -48,8 +48,7 @@ document.querySelector('.check').addEventListener('click',function(){
            document.querySelector('.score').textContent = 0; }
     }
 });
-
-// Challenge 
+ 
 // Again button aducem totul de la 0 
 
 document.querySelector('.again').addEventListener('click', function() {
